@@ -35,10 +35,10 @@ const options = {
   account: 'mx_turing',
     includeAts: false,
 twitter: {
-	consumer_key:         'sAuxwtmD5KmyBmP2itfYzHuhv',
-    consumer_secret:      'zq1TlgkIx46cpLbmSrdCkgU718gIl1odAUtVbqti6zUmkags0m',
-  	access_token_key:         '981928195577597953-Dq1QIdFN0I4zulIUw3tbmewXhr4qaTm',
-  	access_token_secret:  'qMzWFUiQjbzcZrOIwRhWkEZ8LspSVeuiq3RpStsZ5fYe4',
+	consumer_key:         '________',
+    consumer_secret:      '________',
+  	access_token_key:     '________',
+  	access_token_secret:  '________',
   },
   replyTo: 'mx_turing'
 

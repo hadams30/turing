@@ -18,9 +18,9 @@ github.com/maximumdata/markov-twitter-bot
 
 module.exports = {
 
-  consumer_key:         'sAuxwtmD5KmyBmP2itfYzHuhv',
-  consumer_secret:      'zq1TlgkIx46cpLbmSrdCkgU718gIl1odAUtVbqti6zUmkags0m',
-  access_token:         '981928195577597953-Dq1QIdFN0I4zulIUw3tbmewXhr4qaTm',
-  access_token_secret:  'qMzWFUiQjbzcZrOIwRhWkEZ8LspSVeuiq3RpStsZ5fYe4',
+  consumer_key:         '______________',
+  consumer_secret:      '______________',
+  access_token:         '______________',
+  access_token_secret:  '______________',
 
 }
