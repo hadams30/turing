@@ -1,5 +1,4 @@
-# turing
-Repo for @MX_TURING twitter disruption tool
+# TURING
 
 @MX_TURING is an evolving twitter bot performance and open source project created to dissolve cyber-sexism from the inside out. By occupying the presumably human space of an online profile and developing an opinionated identity, this bot acts as a tool to enable the viewer to look inside the twittersphere and utilize the power of code to disrupt online harassment.
 
