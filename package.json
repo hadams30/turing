@@ -1,0 +1,26 @@
+{
+  "name": "turing",
+  "version": "1.0.0",
+  "description": "@MX_TURING is an evolving twitter bot performance and open source project created to dissolve cyber-sexism from the inside out. By occupying the presumably human space of an online profile and developing an opinionated identity, this bot acts as a tool to enable the viewer to look inside the twittersphere and utilize the power of code to disrupt online harassment.",
+  "main": "archive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadams30/turing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadams30/turing/issues"
+  },
+  "homepage": "https://github.com/hadams30/turing#readme",
+  "dependencies": {
+    "markov": "0.0.7",
+    "readline-sync": "^1.4.9",
+    "tabletop": "^1.5.2",
+    "twit": "^2.2.11",
+    "twitter-bot": "^1.0.0"
+  }
+}
